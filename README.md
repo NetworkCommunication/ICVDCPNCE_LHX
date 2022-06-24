@@ -5,4 +5,4 @@ Python 3.5+
 # How to use
 Firstly, "My_test.py" is the main function file. 
 Secondly, preparing an excel file as shown in the figure below, in which 1000 pieces of datas are needed to be prepared. The four columns of datas are: id, size, number of requestes and file type.
-![image](https://github.com/lzhao@sau.edu.cn/NetworkCommunication/VDC_LHX/fig1.jpg?raw=true)
+![image](https://github.com/NetworkCommunication/VDC_LHX/blob/main/fig1.jpg?raw=true)
