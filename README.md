@@ -13,3 +13,5 @@ Python 3.5+
         File "Update_Cache.py" and "Cache.py" are the files for cache optimization algorithm.
         File "UCB1.py" is the file for Multi-armed bandit algorithm.
         File "Zipf.py" is the file request model.
+# Maintainer
+Hung-hsuan (hsuanlh@163.com)
