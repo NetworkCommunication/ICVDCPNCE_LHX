@@ -1,5 +1,5 @@
 # ICVDCPNCE_LHX
-This code is used to do simulation experiments. 
+This code is used to do simulation experiments for vehicle Dew computing architecture. 
 # Requirements
 Python 3.5+
 # How to use
